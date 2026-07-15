@@ -18,15 +18,15 @@
 
 ### 实时预览
 
-![清笺MD 预览模式](assets/preview.jpg)
+![清笺MD 预览模式高清图](assets/preview-hd.png)
 
 ### 分屏编辑
 
-![清笺MD 分屏模式](assets/split.jpg)
+![清笺MD 分屏模式高清图](assets/split-hd.png)
 
 ### 专注编辑
 
-![清笺MD 编辑模式](assets/editor.jpg)
+![清笺MD 编辑模式高清图](assets/editor-hd.png)
 
 ## 为什么选择清笺MD
 
