@@ -62,7 +62,7 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/lproc2006/qingjian-md/releases/latest) 下载最新的 macOS 通用安装包。
+前往 [Releases](https://github.com/lproc2006/qingjian-md/releases) 下载最新的 macOS 通用安装包。
 
 系统要求：macOS 14.0 或更高版本。
 
