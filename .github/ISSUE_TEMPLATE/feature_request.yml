@@ -1,0 +1,25 @@
+name: 功能建议
+description: 建议新的功能或交互优化
+title: "[建议] "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+      description: 请描述你在什么情况下需要这个功能
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 期望的解决方式
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 当前替代方式
+      description: 如果现在有临时解决方法，请一并说明
+

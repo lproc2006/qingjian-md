@@ -1,0 +1,49 @@
+name: 问题反馈
+description: 报告可以稳定复现的错误或异常行为
+title: "[问题] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈。请勿上传包含个人信息、商业秘密或其他敏感内容的文稿。
+  - type: input
+    id: app-version
+    attributes:
+      label: 清笺MD版本
+      placeholder: 例如 1.0.0-beta.1
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS版本与机型
+      placeholder: 例如 macOS 15.5，MacBook Air M2
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: 请按顺序描述操作步骤
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: 补充信息
+      description: 可添加已脱敏截图或最小化示例文本
+
