@@ -23,13 +23,12 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          tag="v1.0.0-beta.1"
+          tag="v1.0.0-beta.2"
           if gh release view "$tag" >/dev/null 2>&1; then
             gh release upload "$tag" release-assets/* --clobber
           else
             gh release create "$tag" release-assets/* \
-              --title "清笺MD 1.0.0 Beta 1" \
+              --title "清笺MD 1.0.0 Beta 2" \
               --notes-file RELEASE_NOTES.md \
               --prerelease
           fi
-
