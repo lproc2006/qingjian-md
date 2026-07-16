@@ -36,7 +36,7 @@
 
 ### 像 Obsidian 一样边写边看
 
-预览、编辑、分屏三种模式一键切换。分屏时左侧写 Markdown，右侧即时显示最终效果；两侧可以分别滚动，并保持一致的文字显示比例。
+预览、编辑、分屏三种模式一键切换。分屏时左侧写 Markdown，右侧即时显示最终效果；滚动任意一侧，另一侧会按文档进度同步移动，并保持一致的文字显示比例。编辑中的回车和连续空行也会在预览中原样保留。
 
 ### 写作需要的格式，一处就够
 
@@ -44,7 +44,7 @@
 
 ### 从 Markdown 直接交付成品
 
-除了保留原始 Markdown，还能导出 PDF 和 DOCX，方便打印、分享，或交给 Word、WPS 继续编辑。
+除了保留原始 Markdown，还能导出 A4 分页 PDF 和可编辑 A4 DOCX。DOCX 中的文字、标题、列表、表格和链接均为原生 Word 内容，可交给 Word、WPS 或 LibreOffice 继续修改。
 
 ### 文稿留在自己的 Mac
 
@@ -52,14 +52,15 @@
 
 ## 功能一览
 
-- Markdown 实时预览与分屏双侧独立滚动
+- Markdown 实时预览、严格保留回车与连续空行
+- 分屏编辑区与预览区双向同步滚动
 - 完整常用格式与五种精选快捷颜色
 - 文件操作集中在原生“文件”下拉菜单
 - 比例预设、滑杆与加减按钮组合缩放
 - 预览模式直接勾选任务清单
 - 查找、替换、搜索数量和结果定位
 - 自动保存、另存为、最近文件与多标签页
-- PDF、DOCX 导出
+- A4 分页 PDF、可编辑 A4 DOCX 导出
 - macOS 原生菜单、窗口和键盘快捷键
 - Apple 芯片与 Intel Mac 通用安装包
 
@@ -87,6 +88,7 @@
 
 - 遇到问题：[提交问题](https://github.com/lproc2006/qingjian-md/issues/new?template=bug_report.yml)
 - 功能建议：[提交建议](https://github.com/lproc2006/qingjian-md/issues/new?template=feature_request.yml)
+- 联系邮箱：`lproc2006@126.com`
 
 提交问题时，请附上 macOS 版本、清笺MD版本、复现步骤和截图。请勿上传包含隐私内容的文稿。
 
