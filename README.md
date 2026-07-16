@@ -1,5 +1,5 @@
 <p align="center">
-
+  <img src="assets/app-logo.png" width="152" height="152" alt="清笺MD App Logo">
 </p>
 
 <h1 align="center">清笺MD</h1>
@@ -16,7 +16,7 @@
   <a href="docs/USER_GUIDE.md">使用指南</a>
 </p>
 
-![清笺MD在macOS上的实时分屏编辑界面](assets/split-hd.png)
+![清笺MD最新版实时分屏：左侧编辑Markdown，右侧同步显示预览](assets/feature-live-split.jpg)
 
 清笺MD 是一款 **macOS 专用** Markdown 编辑器。它不要求建立资料库，也不会改变原有文件结构：在 Finder 中双击 `.md` 或 `.markdown` 文件即可打开，编辑后继续保存到原位置。
 
@@ -40,7 +40,13 @@
 
 选择文字后，快捷格式条会贴近选区出现，并可自由拖动。它提供常用格式、红橙绿蓝紫五种颜色和一键取消颜色；连续应用同类格式时，会用最后一次操作替换之前的同类格式。
 
-![清笺MD最新版选区快捷格式条，包含常用格式、五种颜色与取消颜色](assets/quick-format-latest.png)
+![清笺MD最新版选区快捷格式条：常用Markdown格式、五种颜色与取消颜色](assets/feature-quick-format.jpg)
+
+### 预览模式也能搜索和完成待办
+
+预览状态下按 `⌘F` 即可搜索全文，搜索框显示当前结果和总数量，并将第一个匹配结果标黄。任务清单无需返回编辑模式，直接点击复选框即可完成或取消待办，并同步更新 Markdown 原文。
+
+![清笺MD最新版预览搜索：显示搜索数量、首个结果标黄和可点击任务清单](assets/feature-preview-search.jpg)
 
 ### Markdown 直接交付
 
@@ -49,21 +55,6 @@
 - **Markdown**：支持自动保存、保存、另存为、最近文件和原位置继续编辑。
 
 ## 三种工作模式
-
-<table>
-  <tr>
-    <td width="50%" align="center"><strong>编辑</strong></td>
-    <td width="50%" align="center"><strong>预览</strong></td>
-  </tr>
-  <tr>
-    <td><img src="assets/editor-hd.png" alt="清笺MD编辑模式"></td>
-    <td><img src="assets/preview-hd.png" alt="清笺MD预览模式"></td>
-  </tr>
-  <tr>
-    <td>专注输入 Markdown，支持选择、全选、删除、复制粘贴、撤销重做和查找替换。</td>
-    <td>直接阅读最终排版，可搜索文稿、打开链接，并可点击任务框完成或取消待办。</td>
-  </tr>
-</table>
 
 - **预览**：适合双击文件后快速阅读和检查最终样式。
 - **编辑**：适合从空白文稿开始写作或集中修改原文。
