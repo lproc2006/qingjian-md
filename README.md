@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" width="132" height="132" alt="清笺MD图标">
+
 </p>
 
 <h1 align="center">清笺MD</h1>
