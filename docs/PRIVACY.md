@@ -20,4 +20,4 @@
 
 ## 联系与反馈
 
-隐私问题和产品反馈可发送至 `lproc2006@126.com`，也可通过本仓库的 [Issues](https://github.com/lproc2006/qingjian-md/issues) 提交。请勿在公开问题中上传包含个人信息或敏感内容的文稿。
+隐私问题和产品反馈可发送至 `lproc2019@gmail.com`，也可通过本仓库的 [Issues](https://github.com/lproc2006/qingjian-md/issues) 提交。请勿在公开问题中上传包含个人信息或敏感内容的文稿。
