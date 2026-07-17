@@ -1,1 +1,1 @@
-27cbb6f8bc0f157f25aef4bb95e4789c190450601c01f513179a5df0744563fc  QingjianMD-1.0.0-beta.4-macOS-universal.zip
+21ba63633a12f0885b2a42a54a952a5e40833b0bb970b058936eb3ad4e4ce004  QingjianMD-1.0.0-beta.4-macOS-universal.zip
